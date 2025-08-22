@@ -36,7 +36,7 @@ The system consists of two main components:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/alindrapu/rust-concurrent-test
 cd rust-concurrent-test
 
 # Run the project
