@@ -37,7 +37,7 @@ The system consists of two main components:
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd rust-concurrent-programming-test
+cd rust-concurrent-test
 
 # Run the project
 cargo run
@@ -50,5 +50,4 @@ Received: Buy Order { id: 1, price: 120 }
 Received: Sell Order { id: 2, price: 100 }
 Matched: Buy Order { id: 1 } Sell Order {id: 2 } at price 100
 Received: Buy Order { id: 3, price: 90 }
-...
 ```
